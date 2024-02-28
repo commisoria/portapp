@@ -1,0 +1,19 @@
+credentials:
+  usernames:
+    BQ2PDDO:
+      email: ismail.bolat@halkbank.com.tr
+      logged_in: False # Will be managed automatically
+      name: ismail bolat
+      password: makro500 # Will be hashed automatically
+    BQ2P:
+      email: ism.bolat@hotmail.com
+      logged_in: False # Will be managed automatically
+      name: Hasan Kara
+      password: makro500 # Will be hashed automatically
+cookie:
+  expiry_days: 30
+  key: some_signature_key # Must be string
+  name: some_cookie_name
+preauthorized:
+  emails:
+  - ismail.bolat@halkbank.com.tr
